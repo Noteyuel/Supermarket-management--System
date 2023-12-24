@@ -26,7 +26,7 @@ public class ShoppingBill {
         System.out.println("\t\t\t\t\t " + "  " + "Welcome to Supermarket Nerds");
         System.out.println("\t\t\t\t\t     Harar");
         System.out.println("\t\t\t\t\t" + "    " + "Shewa Ber");
-        System.out.println("Contact us: " + "\t\t\t\t\t\t\tContact: (+251) 988584529");
+        System.out.println("Contact us: " + "\t\t\t\t\t\t\tContact: (+251)961219838");
 
         //format of date and time
 
