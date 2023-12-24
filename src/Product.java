@@ -24,7 +24,7 @@ public class Product
         this.price = price;
         this.totalPrice = totalPrice;
     }
-    // getter methods that return the data
+    // getter methods that returns the data
     public String getId()
     {
 
