@@ -40,6 +40,9 @@ public class ShoppingBill {
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter Customer Name: ");
         String customername = scan.nextLine();
+        System.out.print("Enter your Address: ");
+        String address = scan.nextLine();
+        
         //create Scanner class object
         //creating an ArrayList to store the product
         List<Product> product = new ArrayList<Product>();
