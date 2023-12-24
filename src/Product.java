@@ -15,7 +15,7 @@ public class Product
     private double price;
     private double totalPrice;
 
-    // constructor
+    // Creating a constructor
     Product(String id, String productName, int quantity, double price, double totalPrice)
     {
         this.id=id;
