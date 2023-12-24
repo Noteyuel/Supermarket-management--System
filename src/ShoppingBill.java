@@ -12,7 +12,7 @@ public class ShoppingBill {
 
     public static void main(String [] args) {
 
-        // variables
+        // variables used
 
         String id = null;
         String productName = null;
