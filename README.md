@@ -1,5 +1,5 @@
 # Supermarket Management System 
-This Java project implements a simple supermarket Management system. It allows users to input details of products, calculates the total price, applies discounts, and generates an invoice. The program also stores the entered product details in a MySQL database.
+This Java project implements a simple Supermarket Management System. It allows users to input details of products, calculates the total price, applies discounts, and generates an invoice. The program also stores the entered product details in a MySQL database.
 
 ## Table of Contents
 
