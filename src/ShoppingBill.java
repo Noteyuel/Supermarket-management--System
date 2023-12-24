@@ -7,17 +7,6 @@ import java.util.*;
 import java.util.Date;
 
 
-class Database extends Product{
-
-    public Database(String id, String productName, int quantity, double price, double totalPrice) {
-        super(id, productName, quantity, price, totalPrice);
-        //TODO Auto-generated constructor stub
-    }
-
-    static Product[] product;
-
-
-}
 
 public class ShoppingBill {
 
