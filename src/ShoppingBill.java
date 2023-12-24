@@ -102,7 +102,7 @@ public class ShoppingBill {
         System.out.println("\n\t\t\t\t\t\t\t\t\t\t     Invoice Total " + (subtotal + vatTax + serviceTax));
 
         System.out.println("\t\t\t\t----------------Thank You for Shopping!!-----------------");
-        System.out.println("\t\t\t\t                     Visit Again");
+        System.out.println("\t\t\t\t                     Visit Us Again");
         // close Scanner
         scan.close();
         
