@@ -23,7 +23,7 @@ public class ShoppingBill {
         double serviceTax, vatTax, subtotal = 0.0, discount = 0.0;
         char choice = '\0';
         System.out.println("\t\t\t\t--------------------Invoice-----------------");
-        System.out.println("\t\t\t\t\t " + "  " + "Welcome to SupermarketNerds");
+        System.out.println("\t\t\t\t\t " + "  " + "Welcome to Supermarket Nerds");
         System.out.println("\t\t\t\t\t     Harar");
         System.out.println("\t\t\t\t\t" + "    " + "Shewa Ber");
         System.out.println("Contact us: " + "\t\t\t\t\t\t\tContact: (+251) 988584529");
