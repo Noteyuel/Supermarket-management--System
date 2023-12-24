@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a18d9a82-e2be-4562-b95d-1947f818eb53" name="Changes" comment="........&#10;&#10;Signed-off-by: eyuel fiseha &lt;noteyuel@gmail.com&gt;" />
+    <list default="true" id="a18d9a82-e2be-4562-b95d-1947f818eb53" name="Changes" comment="........">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ShoppingBill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppingBill.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +21,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <favorite-branches>
       <branch-storage>
         <map>
@@ -46,12 +62,12 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="7bec68fe1a7a0d29d3a3b76c246d7e84c71a44b1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
-    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -69,7 +85,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "origin",
     "last_opened_file_path": "C:/Users/eyuel fiseha/Downloads/Video/Java Project/SupermarketManagement/lib/mysql-connector-j-8.2.0.jar",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -174,7 +190,47 @@
       <option name="project" value="LOCAL" />
       <updated>1703418318166</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="........&#10;&#10;Signed-off-by: eyuel fiseha &lt;noteyuel@gmail.com&gt;">
+      <option name="closed" value="true" />
+      <created>1703418564197</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703418564197</updated>
+    </task>
+    <task id="LOCAL-00008" summary="........&#10;&#10;Signed-off-by: eyuel fiseha &lt;noteyuel@gmail.com&gt;">
+      <option name="closed" value="true" />
+      <created>1703418576129</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703418576129</updated>
+    </task>
+    <task id="LOCAL-00009" summary="........&#10;&#10;Signed-off-by: eyuel fiseha &lt;noteyuel@gmail.com&gt;">
+      <option name="closed" value="true" />
+      <created>1703418669622</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1703418669622</updated>
+    </task>
+    <task id="LOCAL-00010" summary="........">
+      <option name="closed" value="true" />
+      <created>1703418923848</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1703418923848</updated>
+    </task>
+    <task id="LOCAL-00011" summary="........">
+      <option name="closed" value="true" />
+      <created>1703420067586</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1703420067586</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,8 +246,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="........" />
     <MESSAGE value="........&#10;&#10;Signed-off-by: eyuel fiseha &lt;noteyuel@gmail.com&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="........&#10;&#10;Signed-off-by: eyuel fiseha &lt;noteyuel@gmail.com&gt;" />
+    <MESSAGE value="........" />
+    <option name="LAST_COMMIT_MESSAGE" value="........" />
   </component>
 </project>
