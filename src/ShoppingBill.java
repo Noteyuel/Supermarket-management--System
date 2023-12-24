@@ -114,6 +114,7 @@ public class ShoppingBill {
         System.out.println("\t\t\t\t                     Visit Again");
         // close Scanner
         scan.close();
+
         Connection connection = null;
         Statement statement = null;
 
@@ -132,7 +133,7 @@ public class ShoppingBill {
 
 
 
-            // Insert data into the database
+            // Insert the user input data into the database
             try{
                 for (Product p : product){
                     String insertQuery = String.format("INSERT INTO products (id, productName, quantity, price, totalPrice) VALUES ('%s', '%s', %d, %.2f, %.2f)",
@@ -143,9 +144,6 @@ public class ShoppingBill {
                 } }catch(Exception e){
                 System.out.println(e.getMessage());
             }
-
-
-
 
 
         } catch (SQLException e) {
