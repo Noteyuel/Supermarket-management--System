@@ -120,7 +120,7 @@ public class ShoppingBill {
             String password = "4114eyuel";
             
 
-            // Establish the database connection
+            // Establishing the database connection
             
             connection = DriverManager.getConnection(url, user, password);
 
