@@ -119,18 +119,21 @@ public class ShoppingBill {
             String url = "jdbc:mysql://localhost:3306/supermarket";
             String user = "root";
             String password = "4114eyuel";
+            
 
             // Establish the database connection
+            
             connection = DriverManager.getConnection(url, user, password);
+
+            
             statement = connection.createStatement();
-
-
 
 
 
             // Insert the user input data into the database
             try{
                 for (Product p : product){
+                    
                     String insertQuery = String.format("INSERT INTO products (id, productName, quantity, price, totalPrice) VALUES ('%s', '%s', %d, %.2f, %.2f)",
                             p.getId(), p.getProductName(), p.getQty(), p.getPrice(), p.getTotalPrice());
                     String showTable = "SELECT * FROM products";
