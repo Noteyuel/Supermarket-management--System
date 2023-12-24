@@ -8,7 +8,7 @@ import java.text.SimpleDateFormat;
 import java.util.*;
 public class Product
 {
-    // properties
+    // Creating variables
     private String id;
     private String productName;
     private int quantity;
