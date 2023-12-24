@@ -1,3 +1,6 @@
+                    SUPERMARKET-MANAGEMENT-SYSTEM
+
+
 Overview
 This Java program represents a simple supermarket billing system that allows a user to input product details, calculates the total cost, applies discounts and taxes, and then stores the transaction details in a MySQL database.
 
