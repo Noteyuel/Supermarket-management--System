@@ -139,7 +139,7 @@ public class ShoppingBill {
             e.printStackTrace();
         } finally {
             try {
-                // Close the database resources
+                // Close the database resources connection before the  program termination
                 if (statement != null) statement.close();
                 if (connection != null) connection.close();
             } catch (SQLException e) {
