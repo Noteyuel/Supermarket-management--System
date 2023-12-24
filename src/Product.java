@@ -65,7 +65,7 @@ public class Product
         System.out.format("   %-9s             %-9s      %5d               %9.2f                       %14.2f\n" ,id, productName, quantity, price, totalPrice);
     }
 }
-//Name of the collaborators
+//Name of the collaborators :
 //1.......Asrat Worku
 //2.......Eyuel Fiseha
 //3.......Ahmed Mohammed
