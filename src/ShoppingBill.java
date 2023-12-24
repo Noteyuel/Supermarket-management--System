@@ -39,7 +39,7 @@ public class ShoppingBill {
         System.out.println("Date: " + formatter.format(date) + "  " + days[calendar.get(Calendar.DAY_OF_WEEK) - 1] + "\t\t\t\t\t\t (+251) 945584529");
           //create Scanner class object
         Scanner scan = new Scanner(System.in);
-        System.out.print("Enter Customer Name: ");
+        System.out.print("Enter Customer's Name: ");
         String customername = scan.nextLine();
         System.out.print("Enter your Address: ");
         String address = scan.nextLine();
