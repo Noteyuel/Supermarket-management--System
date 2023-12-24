@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a18d9a82-e2be-4562-b95d-1947f818eb53" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ShoppingBill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppingBill.java" afterDir="false" />
-    </list>
+    <list default="true" id="a18d9a82-e2be-4562-b95d-1947f818eb53" name="Changes" comment="modify commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -282,7 +279,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703420860424</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="modify commit">
+      <option name="closed" value="true" />
+      <created>1703421874622</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1703421874622</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -302,6 +307,7 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/origin' into origin" />
     <MESSAGE value="........&#10;&#10;Signed-off-by: eyuel fiseha &lt;noteyuel@gmail.com&gt;" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="modify commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify commit" />
   </component>
 </project>
