@@ -111,6 +111,8 @@ public class ShoppingBill {
         try {
             // Database connection parameters that is used in mysql database
             //the format is in the url part at the last backslash write the database name
+            //in the user part write local connection username
+            //and in the password part write the local connection password
             String url = "jdbc:mysql://localhost:3306/supermarket";
             String user = "root";
             String password = "4114eyuel";
