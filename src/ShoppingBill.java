@@ -49,7 +49,7 @@ public class ShoppingBill {
         do {
 
             try{
-            // read input values
+                
             System.out.println("Enter the product details: ");
             System.out.print("Enter Product ID: ");
             id = scan.nextLine();
