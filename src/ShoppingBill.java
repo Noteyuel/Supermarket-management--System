@@ -65,7 +65,6 @@ public class ShoppingBill {
 
             }
 
-            //calculate total price for a particular product
             totalPrice = price * quantity;
             //calculates overall price
             overAllPrice = overAllPrice + totalPrice;
