@@ -24,7 +24,7 @@ public class ShoppingBill {
         char choice = '\0';
         System.out.println("\t\t\t\t--------------------Invoice-----------------");
         System.out.println("\t\t\t\t\t " + "  " + "Welcome to our Super Market");
-        System.out.println("\t\t\t\t\t     6 Kilo Addis Abeba");
+        System.out.println("\t\t\t\t\t     Harar");
         System.out.println("\t\t\t\t\t" + "    " + "Opposite Metro Walk");
         System.out.println("GSTIN: 03AWBPP8756K592" + "\t\t\t\t\t\t\tContact: (+251) 988584529");
 
