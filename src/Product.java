@@ -50,7 +50,7 @@ public class Product
 //return calculated price
         return totalPrice;
     }
-    //displayFormat
+    //displayFormat into the console
     public static void displayFormat()
     {
         System.out.format("-----------------------------------------------------------------------------------------------------------------------------------");
