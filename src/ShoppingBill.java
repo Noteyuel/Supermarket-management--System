@@ -106,6 +106,7 @@ public class ShoppingBill {
         System.out.println("\t\t\t\t                     Visit Again");
         // close Scanner
         scan.close();
+        
         Connection connection = null;
         Statement statement = null;
 
