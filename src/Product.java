@@ -66,8 +66,8 @@ public class Product
     }
 }
 //Name of the collaborators :
-//1.......Asrat Worku
-//2.......Eyuel Fiseha
+//1.......Eyuel Fiseha
+//2.......Asrat worku
 //3.......Ahmed Mohammed
 //4.......Abdulfetah Jemal
 
