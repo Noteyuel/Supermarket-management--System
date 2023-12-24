@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a18d9a82-e2be-4562-b95d-1947f818eb53" name="Changes" comment="........">
+    <list default="true" id="a18d9a82-e2be-4562-b95d-1947f818eb53" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ShoppingBill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppingBill.java" afterDir="false" />
     </list>
@@ -60,6 +60,7 @@
         <option value="Eyuel Fiseha &lt;noteyuel@gmail.com&gt;" />
       </list>
     </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="7bec68fe1a7a0d29d3a3b76c246d7e84c71a44b1" />
@@ -68,6 +69,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
     <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -230,7 +234,55 @@
       <option name="project" value="LOCAL" />
       <updated>1703420067586</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="........">
+      <option name="closed" value="true" />
+      <created>1703420117557</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1703420117557</updated>
+    </task>
+    <task id="LOCAL-00013" summary="........">
+      <option name="closed" value="true" />
+      <created>1703420140318</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1703420140318</updated>
+    </task>
+    <task id="LOCAL-00014" summary="........&#10;&#10;Signed-off-by: eyuel fiseha &lt;noteyuel@gmail.com&gt;">
+      <option name="closed" value="true" />
+      <created>1703420178782</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1703420178782</updated>
+    </task>
+    <task id="LOCAL-00015" summary="commit">
+      <option name="closed" value="true" />
+      <created>1703420588013</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1703420588013</updated>
+    </task>
+    <task id="LOCAL-00016" summary="commit">
+      <option name="closed" value="true" />
+      <created>1703420754389</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1703420754389</updated>
+    </task>
+    <task id="LOCAL-00017" summary="commit">
+      <option name="closed" value="true" />
+      <created>1703420860424</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1703420860424</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,8 +298,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="........&#10;&#10;Signed-off-by: eyuel fiseha &lt;noteyuel@gmail.com&gt;" />
     <MESSAGE value="........" />
-    <option name="LAST_COMMIT_MESSAGE" value="........" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/origin' into origin" />
+    <MESSAGE value="........&#10;&#10;Signed-off-by: eyuel fiseha &lt;noteyuel@gmail.com&gt;" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>

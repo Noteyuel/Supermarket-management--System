@@ -7,7 +7,7 @@ import java.util.*;
 import java.util.Date;
 
 
-
+//The main class
 public class ShoppingBill {
 
     public static void main(String [] args) {

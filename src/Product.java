@@ -24,7 +24,7 @@ public class Product
         this.price = price;
         this.totalPrice = totalPrice;
     }
-    // getter methods
+    // getter methods that return the data
     public String getId()
     {
 
@@ -47,7 +47,7 @@ public class Product
     }
     public double getTotalPrice()
     {
-
+//return calculated price
         return totalPrice;
     }
     //displayFormat
@@ -58,7 +58,7 @@ public class Product
         System.out.format("-----------------------------------------------------------------------------------------------------------------------------------\n");
     }
 
-    // display
+    // display the user input data to the terminal
     public void display()
 
     {
