@@ -22,4 +22,30 @@ This project is a console-based supermarket Management system that enables users
 - Calculate total price and apply discounts.
 - Display a formatted invoice.
 - Store product details in a MySQL database.
+ ## Getting Started
 
+### Prerequisites
+
+- Java Development Kit (JDK) installed.
+- MySQL database server installed.
+## Usage
+- Compile the Java program: javac ShoppingBill.java
+- Run the compiled program: java ShoppingBill
+## Database Configuration
+- Ensure that your MySQL server is running.
+- Modify the database connection parameters in the ShoppingBill.java file:
+- Create a MySQL database named supermarket.
+- Create a table named products with the following structure:
+  CREATE TABLE IF NOT EXISTS products (
+    id VARCHAR(10) PRIMARY KEY,
+    productName VARCHAR(255),
+    quantity INT,
+    price DOUBLE,
+    totalPrice DOUBLE
+);
+
+## Contributors
+- Asrat Worku
+- Eyuel Fiseha
+- Ahmed Muhammed
+- Abdulfetah Jemal
