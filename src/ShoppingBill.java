@@ -106,7 +106,51 @@ public class ShoppingBill {
         System.out.println("\t\t\t\t                     Visit Again");
         // close Scanner
         scan.close();
+        Connection connection = null;
+        Statement statement = null;
 
+
+        try {
+            // Database connection parameters that is used in mysql database
+            //the format is in the url part at the last backslash write the database name
+            //in the user part write local connection username
+            //and in the password part write the local connection password
+            String url = "jdbc:mysql://localhost:3306/supermarket";
+            String user = "root";
+            String password = "4114eyuel";
+
+            // Establish the database connection
+            connection = DriverManager.getConnection(url, user, password);
+            statement = connection.createStatement();
+
+
+
+
+
+            // Insert the user input data into the database
+            try{
+                for (Product p : product){
+                    String insertQuery = String.format("INSERT INTO products (id, productName, quantity, price, totalPrice) VALUES ('%s', '%s', %d, %.2f, %.2f)",
+                            p.getId(), p.getProductName(), p.getQty(), p.getPrice(), p.getTotalPrice());
+                    String showTable = "SELECT * FROM products";
+                    statement.executeUpdate(insertQuery);
+                    statement.execute(showTable);
+                } }catch(Exception e){
+                System.out.println(e.getMessage());
+            }
+
+
+        } catch (SQLException e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                // Close the database resources connection before the  program termination
+                if (statement != null) statement.close();
+                if (connection != null) connection.close();
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+        }
 
     }
 }
