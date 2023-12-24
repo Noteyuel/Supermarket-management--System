@@ -36,7 +36,7 @@ public class ShoppingBill {
         String[] days = new String[]{"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
 
         //prints current date and time
-        System.out.println("Date: " + formatter.format(date) + "  " + days[calendar.get(Calendar.DAY_OF_WEEK) - 1] + "\t\t\t\t\t\t (+251) 988584529");
+        System.out.println("Date: " + formatter.format(date) + "  " + days[calendar.get(Calendar.DAY_OF_WEEK) - 1] + "\t\t\t\t\t\t (+251) 945584529");
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter Customer Name: ");
         String customername = scan.nextLine();
